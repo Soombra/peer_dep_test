@@ -1,0 +1,16 @@
+{
+  "name": "react_test",
+  "version": "1.0.0",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1",
+    "setup": "rm -rf node_modules/ pnpm-lock.yaml && pnpm i"
+  },
+  "dependencies": {
+    "react": "16.9.0",
+    "@wuerkang/test_package": "1.0.5"
+  },
+  "author": "",
+  "license": "ISC"
+}
